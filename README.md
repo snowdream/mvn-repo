@@ -1,7 +1,7 @@
-# m2repository
+# mvn-repo
 
 ##Introduction
-Mirror Maven repository for Support Libraries and Google Libraries.
+My personal public maven repository.
 
 ### Gradle
 Add to your build.gradle:
